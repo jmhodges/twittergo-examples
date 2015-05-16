@@ -8,7 +8,6 @@ Using
 First install the following dependencies:
 
     go get -u github.com/kurrik/twittergo
-    go get -u github.com/kurrik/oauth1a
 
 Then add a file called
 `CREDENTIALS` in this project root.  The format of this file should be:
